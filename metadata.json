@@ -1,0 +1,6 @@
+{
+  "name": "Choyxona Registon",
+  "description": "Samarqand an'analariga sodiq o'zbek choyxonasi: milliy taomlar menyusi, xushbo'y choy, buyurtma va stol band qilish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
